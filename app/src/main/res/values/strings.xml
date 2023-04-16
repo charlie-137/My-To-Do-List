@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My To Do List</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="welcome_back">Welcome \n Back</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="type_your_task">Type Your Task</string>
+</resources>
