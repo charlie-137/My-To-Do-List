@@ -8,6 +8,8 @@ import androidx.room.PrimaryKey
 class Note (
     @ColumnInfo(name = "title")
     val noteTitle:String,
+//    @ColumnInfo(name = "description")
+//    val noteDescription:String,
     @ColumnInfo(name = "checked")
     var checked : Boolean = false
     ) {
